@@ -1,0 +1,48 @@
+.wdh-tooltip-box{
+    position:absolute;
+    background: url('../images/wdh_tooltip_background.png');
+    text-align: center;
+    padding: 5px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+    color:#ececec;
+    z-index:99999;
+    display:none;
+}
+
+.wdh-tooltip-top-arrow{
+    position:absolute;
+    background: url('../images/wdh_tooltip_arrow_down.png');
+    background-repeat: no-repeat;
+    width:11px;
+    height: 7px;
+    display:none;
+}
+
+.wdh-tooltip-bottom-arrow{
+    position:absolute;
+    background: url('../images/wdh_tooltip_arrow_up.png');
+    background-repeat: no-repeat;
+    width:11px;
+    height: 7px;
+    display:none;
+}
+
+.wdh-tooltip-right-arrow{
+    position:absolute;
+    background: url('../images/wdh_tooltip_arrow_left.png');
+    background-repeat: no-repeat;
+    width:7px;
+    height: 10px;
+    display:none;
+}
+
+.wdh-tooltip-left-arrow{
+    position:absolute;
+    background: url('../images/wdh_tooltip_arrow_right.png');
+    background-repeat: no-repeat;
+    width:7px;
+    height: 10px;
+    display:none;
+}
