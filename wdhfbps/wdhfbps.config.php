@@ -66,7 +66,7 @@ $wdhFBPS_CONFIG['FORM_BOX_BORDER_COLOR']                       = 'fccf1b'; // Se
 $wdhFBPS_CONFIG['FORM_BOX_BORDER_SIZE']                        = '1'; // Set default box border size for form design
 $wdhFBPS_CONFIG['FORM_BOX_BORDER_TYPE']                        = 'solid'; // Set default box borderr type  for form design
 $wdhFBPS_CONFIG['FORM_BOX_BORDER_RADIUS']                      = '0'; // Set default box border radius for form design
-$wdhFBPS_CONFIG['FORM_WIDTH']                                  = '400'; // Set default box width for form design
+$wdhFBPS_CONFIG['FORM_WIDTH']                                  = '300'; // Set default box width for form design
 
 // Form  Field Design
 $wdhFBPS_CONFIG['FORM_FIELD_TEXT_COLOR']                       = '000000'; // Set default text color for form design
